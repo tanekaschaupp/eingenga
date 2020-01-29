@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bofohthauj.dsccommunity.org/sitemap.xml
